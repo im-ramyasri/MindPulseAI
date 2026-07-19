@@ -180,7 +180,7 @@ MindPulseAI/
 ### 🌿 Home Screen
 
 <p align="center">
-  <img src="screenshots/home.png" width="900"/>
+  <img src="screenshots/home.png" width="850"/>
 </p>
 
 ---
@@ -188,7 +188,7 @@ MindPulseAI/
 ### 💬 Chat Interface
 
 <p align="center">
-  <img src="screenshots/chat.png" width="900"/>
+  <img src="screenshots/chat.png" width="850"/>
 </p>
 
 ---
@@ -196,9 +196,8 @@ MindPulseAI/
 ### 📊 Emotion Analytics
 
 <p align="center">
-  <img src="screenshots/analytics.png" width="900"/>
+  <img src="screenshots/analytics.png" width="850"/>
 </p>
----
 
 ## 🎯 How It Works
 
