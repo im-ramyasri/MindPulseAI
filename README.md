@@ -178,18 +178,29 @@ MindPulseAI/
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🌿 Home Screen
 
-Add a screenshot here after deployment.
+<p align="center">
+  <img src="screenshots/home.png" width="900"/>
+</p>
+
+---
 
 ### 💬 Chat Interface
 
-Add a screenshot of the chatbot conversation.
+<p align="center">
+  <img src="screenshots/chat.png" width="900"/>
+</p>
+
+---
 
 ### 📊 Emotion Analytics
 
-Add a screenshot of the analytics dashboard.
-
+<p align="center">
+  <img src="screenshots/analytics.png" width="900"/>
+</p>
 ---
 
 ## 🎯 How It Works
