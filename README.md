@@ -175,9 +175,6 @@ MindPulseAI/
 ```
 
 ---
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ### 🌿 Home Screen
