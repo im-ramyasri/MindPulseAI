@@ -116,7 +116,7 @@ Analytics Dashboard (Plotly)
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MindPulseAI.git
+git clone https://github.com/im-ramyasri/MindPulseAI.git
 cd MindPulseAI
 ```
 
@@ -154,7 +154,7 @@ Open the local URL shown in the terminal (usually **http://localhost:8501**).
 
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** `https://mindpulse.ai.streamlit.app`
+🔗 **Deployed App:** https://mindpulse.ai.streamlit.app
 
 ---
 
