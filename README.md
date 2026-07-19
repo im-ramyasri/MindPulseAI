@@ -154,9 +154,7 @@ Open the local URL shown in the terminal (usually **http://localhost:8501**).
 
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** `https://your-app-name.streamlit.app`
-
-*(Replace this with your actual Streamlit Cloud URL after deployment.)*
+🔗 **Deployed App:** `https://mindpulse.ai.streamlit.app`
 
 ---
 
