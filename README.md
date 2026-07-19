@@ -154,7 +154,7 @@ Open the local URL shown in the terminal (usually **http://localhost:8501**).
 
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** https://mindpulse.ai.streamlit.app
+🔗 **Deployed App:** https://mindpulse-ai.streamlit.app
 
 ---
 
